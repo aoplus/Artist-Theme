@@ -1,4 +1,4 @@
-# Default, Defaults
+OB# Default, Defaults
 markdown: redcarpet
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
@@ -6,7 +6,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 # Jekyll Defaults
 title: Layer Music Project
 email: layer@layermusicproject.com
-description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
+description: CHECK LAYER OUT IF YOU LIKE ELECTRONICA TRACKS THAT BUILD INTO ONE BIG CRESCENDO TOWARDS THE END!
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
@@ -15,9 +15,9 @@ url: ""
 
 # Socail Media links
 # Use these to link users to your organization's social media sites
-twitter:
-facebook:
-google:
+twitter: http://bit.ly/layertwitter
+facebook: http://bit.ly/layerfb
+youtube: http://bit.ly/layerb
 
 author: 
-authorBio: A musician by night.
+authorBio: Chaitanya Bulusu ( Chatty) and his work transcends genre and style – instead focusing more on swing, melody, vibe and atmosphere.
