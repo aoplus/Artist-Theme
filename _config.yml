@@ -4,8 +4,8 @@ highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
-title: Artist Theme
-email: your-email@domain.com
+title: Layer Music Project
+email: layer@layermusicproject.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -19,5 +19,5 @@ twitter:
 facebook:
 google:
 
-author: Nina Petropoulos
-authorBio: A English major by day, a musician by night, and a web developer because of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland theme, the second theme I've made with Jekyll.
+author: 
+authorBio: A musician by night.
